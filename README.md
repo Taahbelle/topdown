@@ -1,2 +1,2 @@
 # topdown
-TopDown game made with Unity 2d.
+TopDown game made with Unity2D.
